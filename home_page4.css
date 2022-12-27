@@ -97,7 +97,7 @@ i {
 }
 
 .header-image {
-  background-image: url(/images/truth-concept-arrangement-with-balance.jpg);
+  /* background-image: url(/images/truth-concept-arrangement-with-balance.jpg); */
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
